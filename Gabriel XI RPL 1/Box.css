@@ -1,0 +1,207 @@
+.bg1 {
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+    justify-self: center;
+    text-align: center;
+    width: 75%;
+    padding: 20px;
+    margin-top: 2rem;
+}
+
+.h1 {
+    justify-self: center;
+}
+.box1 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px cornflowerblue
+    
+}
+.box2 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px aqua;
+    
+}
+.box3 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px turquoise;
+    
+}
+.box4 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px powderblue;
+}
+
+.img {
+    margin-top: 15px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 2px;
+    margin-top: 9px;
+}
+
+p {
+    font-size: 20px;
+    width: 8rem;
+    margin-left: 16.3px;
+    margin-bottom: 15px;
+}
+
+#img {
+    height: 10px;
+    width: 10px;
+}
+
+.icon {
+    margin-left: 3px;
+}
+
+button {
+    height: 25px;
+    width: 8rem;
+    border-radius: 70px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: rgb(212, 197, 197);
+    color: rgb(0, 0, 0);
+    transition: 2s;
+}
+
+.bg2 {
+    background-color: lime;
+    display: flex;
+    justify-content: space-evenly;
+    justify-self: center;
+    text-align: center;
+    width: 75%;
+    padding: 20px;
+    margin-top: 3rem;
+}
+
+.box5 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px aquamarine;
+    
+}
+.box6 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px lawngreen;
+    
+}
+.box7 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px greenyellow;
+    
+}
+.box8 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px yellowgreen;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 2px;
+    margin-top: 9px;
+}
+
+.btn {
+    height: 25px;
+    width: 8rem;
+    border-radius: 70px;
+    border: none;
+    background-color: rgb(107, 138, 168);
+    color: white;
+    margin-top: 16px;
+}
+
+.box5:hover {
+    background-color: rgb(70, 70, 168);
+    color: white;
+    transition: 2s;
+}
+
+.box6:hover {
+    background-color: rgb(70, 70, 168);
+    color: white;
+    transition: 2s;
+}
+
+.box7:hover {
+    background-color: rgb(70, 70, 168);
+    color: white;
+    transition: 2s;
+}
+
+.box8:hover {
+    background-color: rgb(70, 70, 168);
+    color: white;
+    transition: 1s;
+}
+.bg3 {
+    background-color: gold;
+    display: flex;
+    justify-content: space-evenly;
+    justify-self: center;
+    text-align: center;
+    width: 75%;
+    padding: 20px;
+    margin-top: 3rem;
+}
+.box9 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px orangered;
+    
+}
+.box10 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px orangered;
+    
+}
+.box11 {    
+    background-color: white;
+    width: 10rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px orangered
+    
+}
